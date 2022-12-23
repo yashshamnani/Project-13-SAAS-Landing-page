@@ -3,7 +3,7 @@
 ## Project Name: SAAS Landing Page
 ### By Yash Shamnani
 
-##  Live Link -: [SAAS](https://yashshamnani-buisness-landing-page.netlify.app/)
+##  Live Link -: [SAAS](https://yashshamnani-saas-landing-page.netlify.app/)
 ---
 
 ##  Technologies used
